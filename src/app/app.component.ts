@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'assignment';
+  // over() {
+  //   document.write("Click on the links below to get more information on Ibe's CV")
+  // }
+  
 }
